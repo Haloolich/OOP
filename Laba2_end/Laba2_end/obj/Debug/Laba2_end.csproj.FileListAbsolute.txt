@@ -1,0 +1,11 @@
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\bin\Debug\Laba2_end.exe.config
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\bin\Debug\Laba2_end.exe
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\bin\Debug\Laba2_end.pdb
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\obj\Debug\Laba2_end.csproj.AssemblyReference.cache
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\obj\Debug\Laba2_end.csproj.SuggestedBindingRedirects.cache
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\obj\Debug\Laba2_end.Form1.resources
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\obj\Debug\Laba2_end.Properties.Resources.resources
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\obj\Debug\Laba2_end.csproj.GenerateResource.cache
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\obj\Debug\Laba2_end.csproj.CoreCompileInputs.cache
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\obj\Debug\Laba2_end.exe
+C:\Users\JeySay\source\repos\Laba2_end\Laba2_end\obj\Debug\Laba2_end.pdb
