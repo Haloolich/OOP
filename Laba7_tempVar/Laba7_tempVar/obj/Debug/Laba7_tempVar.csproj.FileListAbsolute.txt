@@ -1,0 +1,14 @@
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\bin\Debug\Laba7_tempVar.exe.config
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\bin\Debug\Laba7_tempVar.exe
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\bin\Debug\Laba7_tempVar.pdb
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.csproj.AssemblyReference.cache
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.csproj.SuggestedBindingRedirects.cache
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.frmmain.resources
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.blank.resources
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.Properties.Resources.resources
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.csproj.GenerateResource.cache
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.csproj.CoreCompileInputs.cache
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.exe
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.pdb
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.FindForm.resources
+D:\Word_2\Laba7_tempVar\Laba7_tempVar\obj\Debug\Laba7_tempVar.About.resources
