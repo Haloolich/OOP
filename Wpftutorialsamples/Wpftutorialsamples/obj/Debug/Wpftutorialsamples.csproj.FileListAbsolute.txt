@@ -1,0 +1,16 @@
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples.csproj.AssemblyReference.cache
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples.csproj.SuggestedBindingRedirects.cache
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\MainWindow.g.cs
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\App.g.cs
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples_MarkupCompile.cache
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples_MarkupCompile.lref
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\bin\Debug\Wpftutorialsamples.exe.config
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\bin\Debug\Wpftutorialsamples.exe
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\bin\Debug\Wpftutorialsamples.pdb
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\MainWindow.baml
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples.g.resources
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples.Properties.Resources.resources
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples.csproj.GenerateResource.cache
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples.csproj.CoreCompileInputs.cache
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples.exe
+D:\Word_2\Wpftutorialsamples\Wpftutorialsamples\obj\Debug\Wpftutorialsamples.pdb
