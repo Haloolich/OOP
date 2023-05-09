@@ -1,0 +1,13 @@
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.csproj.AssemblyReference.cache
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.csproj.SuggestedBindingRedirects.cache
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.NewFileDialog.resources
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.Previewform.resources
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\JeySay\Downloads\FileExplorer-master\FileExplorer-master\FileExplorer\obj\Debug\FileExplorer.pdb
