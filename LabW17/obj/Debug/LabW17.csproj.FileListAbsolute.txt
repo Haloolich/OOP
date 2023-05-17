@@ -1,0 +1,12 @@
+D:\Word_2\LabW17\bin\Debug\LabW17.exe.config
+D:\Word_2\LabW17\bin\Debug\LabW17.exe
+D:\Word_2\LabW17\bin\Debug\LabW17.pdb
+D:\Word_2\LabW17\obj\Debug\LabW17.csproj.AssemblyReference.cache
+D:\Word_2\LabW17\obj\Debug\LabW17.csproj.SuggestedBindingRedirects.cache
+D:\Word_2\LabW17\obj\Debug\LabW17.Form1.resources
+D:\Word_2\LabW17\obj\Debug\LabW17.Properties.Resources.resources
+D:\Word_2\LabW17\obj\Debug\LabW17.csproj.GenerateResource.cache
+D:\Word_2\LabW17\obj\Debug\LabW17.csproj.CoreCompileInputs.cache
+D:\Word_2\LabW17\obj\Debug\LabW17.exe
+D:\Word_2\LabW17\obj\Debug\LabW17.pdb
+D:\Word_2\LabW17\obj\Debug\LabW17.LoginForm.resources
