@@ -1,0 +1,11 @@
+D:\Word_2\LabW19\bin\Debug\LabW19.exe.config
+D:\Word_2\LabW19\bin\Debug\LabW19.exe
+D:\Word_2\LabW19\bin\Debug\LabW19.pdb
+D:\Word_2\LabW19\obj\Debug\LabW19.csproj.AssemblyReference.cache
+D:\Word_2\LabW19\obj\Debug\LabW19.csproj.SuggestedBindingRedirects.cache
+D:\Word_2\LabW19\obj\Debug\LabW19.Form1.resources
+D:\Word_2\LabW19\obj\Debug\LabW19.Properties.Resources.resources
+D:\Word_2\LabW19\obj\Debug\LabW19.csproj.GenerateResource.cache
+D:\Word_2\LabW19\obj\Debug\LabW19.csproj.CoreCompileInputs.cache
+D:\Word_2\LabW19\obj\Debug\LabW19.exe
+D:\Word_2\LabW19\obj\Debug\LabW19.pdb
