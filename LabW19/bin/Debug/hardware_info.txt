@@ -1,0 +1,60 @@
+Computer Hardware Information
+-----------------------------
+
+Motherboard Manufacturer: ASUSTeK COMPUTER INC.
+Motherboard Model: X540MA
+Motherboard Serial Number: NA
+
+Network Adapter Name: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+
+MAC Address: 80:91:33:E3:E5:F1
+
+
+Network Adapter Name: HUAWEI Mobile Connect - Network Card
+
+MAC Address: N/A
+
+
+Network Adapter Name: HUAWEI Mobile Connect - Network Card
+
+MAC Address: N/A
+
+
+Network Adapter Name: LogMeIn Hamachi Virtual Ethernet Adapter
+
+MAC Address: N/A
+
+
+BIOS Version: X540MA.314
+
+Manufacturer: ASUSTeK COMPUTER INC.
+
+Model: VivoBook 15_ASUS Laptop X540MA_X543MA
+
+System Type: x64-based PC
+
+Total Physical Memory: 4109508608 bytes
+
+Serial Number: NA
+
+
+Processor: Intel64 Family 6 Model 122 Stepping 1, GenuineIntel
+
+
+VideoController: Intel(R) UHD Graphics 600
+
+
+DiscDrive: TOSHIBA MQ01ABF050
+
+
+Phisical Memory: 1073741824
+
+
+Phisical Memory: 1073741824
+
+
+Phisical Memory: 1073741824
+
+
+Phisical Memory: 1073741824
+
